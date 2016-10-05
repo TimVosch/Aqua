@@ -28,7 +28,8 @@ Source: https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora
 | Sensitivity         | -112 dBm|
 | Range               | LOS = 40km (25 miles) |
 |                     | NLOS = 550m |
-|Price                |€75.00 without shield and without antena |
+|Price                |€75.00 without shield and without antena |  
+Source: https://www.cooking-hacks.com/xbee-868-mhz-sma-module  
 
 ### LoRa VS LoRaWAN ###
 
