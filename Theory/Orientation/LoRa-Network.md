@@ -1,10 +1,10 @@
 Orientation LoRa
 ============
 
- ### Prices for LoRa receivers that arduino supports  ###
+### Prices for LoRa receivers that arduino supports  ###
 ---
 
- | Lora                | Libelium          |
+| Lora                | Libelium          |
 |---------------------|------------------------|
 | Module              | SX1272                 |
 | Dual Frequency Band | 863-870 MHz (Europe)   |
@@ -16,7 +16,7 @@ Orientation LoRa
 | Range               | LOS = 21km (13.4miles) |
 |                     | NLOS = +2km (1.2miles) |
 |Price                |€45.00 without shield |
-|                   | €75.00 with shield|
+|                   | €75.00 with shield|  
 Bron: https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo/  
 
 | Lora                |XBee        |
