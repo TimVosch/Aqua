@@ -15,5 +15,8 @@ The time it can charge has to compensate for the time it cannot, which can be do
 
 Assuming the MFM operates at 5.5 Volts and not more than 20 mA, the power would be 0.11 Watt which is about 27 times more than a 5 Watt solar panel delivers.
 
+Whether this is applicable for the MFM depends on: the hours of sun per season, battery size, battery charge rate etc...  
+This is definitely something to research more in-depth, as well as checking out real-life examples.
+
 #### Sources
 [Average hours of sun in The Netherlands](https://www.currentresults.com/Weather/Netherlands/sunshine-annual-average.php)
