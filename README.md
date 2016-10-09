@@ -10,6 +10,6 @@ This project is sponsored by [Scheldestromen](http://www.scheldestromen.nl/algem
 ##### Extras
 Also related to this project is:
 
-http://www.github.com/timvosch/aqua_web/
-http://mfm.azurewebsites.net/
+http://www.github.com/timvosch/aqua_web/  
+http://mfm.azurewebsites.net/  
 http://mfm.azurewebsites.net/git2log/
