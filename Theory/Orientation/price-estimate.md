@@ -4,9 +4,9 @@
 
 
 #### LoRa Sensors:
-> http://webshop.ideetron.nl/RFM95W
-> http://webshop.ideetron.nl/LoRa
-
+> http://webshop.ideetron.nl/RFM95W  
+> http://webshop.ideetron.nl/LoRa  
+> https://www.cooking-hacks.com/shop/wireless/extreme-range-lora
 
 #### Water measurement sensors : 
 > http://www.libelium.com/products/plug-sense/
