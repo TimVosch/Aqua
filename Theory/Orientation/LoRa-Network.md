@@ -53,3 +53,7 @@ The usage of a LoRa-Netork is 10 mA. The Arduino uses 9 mA, wich would mean we w
 - Supply Voltage	3.0 – 3.6 VDC  
 - Transmit Current	500 mA typical at 3.3V (800 mA max)  
 - Receive Current	65 mA typical  
+
+### Conclusion ###
+---
+If u compare the Libilium and the XBee the libilium is by far the winner. Its costs way less is better in urban districts and uses alot less power. For the LoRa vs LoRaWAN, the best is the LoRaWAN because we can use the cerntral point to check in on all the other MFM. This way u can also update all the MFM at the same time. Furthermore, there is the option of maybe changing the frequentie of the measurement of the MFM.
