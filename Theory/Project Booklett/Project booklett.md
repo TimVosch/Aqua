@@ -58,5 +58,10 @@ d. How much power can you use usually in the Netherlands?
 18. Design and make an MFM that alarms on the basis of combining data (for example: an e-mail)
 19. Make sure that all researches that are stated above lead to 1 end product. You are the project manager from the MFM and responsible that every developments is in line with the project. You have the final responsibility! Some developments can conflict with each other. Then you must decide what is most important. Before you start, make a project plan with your goals, planning, POA and your plan meetings. Make sure you watch closely to the progress (and tell about this to the client), tell people what to do and make a completion report. 
 
+LoRa Network
+-------------
+The LoRa Network is one of the most important requirements in our project. .......
+
+
 
 
