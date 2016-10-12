@@ -32,6 +32,7 @@ The MFM has to send a daily report to a central point where everything can be mo
 
 ### Assignments:
 1. Design an power supply for the MFM so he can work on his own as much as possible.
+
 a. What is the best combination with solar cells to have the maximum energy output?
 
 b. What is the best way to store energy in periods where there is no sun?
