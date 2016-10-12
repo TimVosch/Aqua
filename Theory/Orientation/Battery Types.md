@@ -1,7 +1,7 @@
 Battery types
 ---
 
-_Below is a plain copy of a website referenced in the source list at the bottom of this page_
+_Below is a modified copy of a website referenced in the source list at the bottom of this page_
 
 ### Battery summaries
 
@@ -9,7 +9,7 @@ _Below is a plain copy of a website referenced in the source list at the bottom 
 
 **Nickel-Metal Hydride (NiMH)** — has a higher energy density compared to the NiCd at the expense of reduced cycle life. NiMH contains no toxic metals. Applications include mobile phones and laptop computers.
 
-**Lead Acid** — most economical for larger power applications where weight is of little concern. The lead acid battery is the preferred choice for hospital equipment, wheelchairs, emergency lighting and UPS systems.
+**Lead Acid** — most economical for larger power applications where weight is of little concern. The lead acid battery is the preferred choice for hospital equipment, wheelchairs, emergency lighting and UPS systems. These batteries are big in size.
 
 **Lithium Ion (Li‑ion)** — fastest growing battery system. Li‑ion is used where high-energy density and lightweight is of prime importance. The technology is fragile and a protection circuit is required to assure safety. Applications include notebook computers and cellular phones.
 Lithium Ion Polymer (Li‑ion polymer) — offers the attributes of the Li-ion in ultra-slim geometry and simplified packaging. Main applications are mobile phones.
@@ -31,6 +31,18 @@ Lithium Ion Polymer (Li‑ion polymer) — offers the attributes of the Li-ion i
 | Typical Battery Cost(US$, reference only)                | $50(7.2V)          | $60(7.2V)          | $25(6V)        | $100(7.2V)           | $100(7.2V)           | $5(9V)              |
 | Cost per Cycle(US$)11                                    | $0.04              | $0.12              | $0.10          | $0.14                | $0.29                | $0.10-0.50          |
 | Commercial use since                                     | 1950               | 1990               | 1970           | 1991                 | 1999                 | 1992                |
+
+
+### Conclusion
+The most important factor is weight and size. The MFM has to be small and preferably lightweight, although the latter is less important.  
+Due to these requirements _Lead Acid_ batteries are not an option.
+
+MFM devices are supposed to be independent and should require little to no maintenance. Having 300 MFM devices require maintenance every 30 to 60 days will mean at least 5 to 10 per day. Having batteries that require no maintenance is optimal. _NiCd_ & _NiMH_ do not comply to these requirements.
+
+Now we're left with _Li-ion_,_Li-ion Polymer_, and _Reusable Alkaline_.
+The disadvantage of Reusable Alkaline is the size, Li-ion is about the same size. But Li-ion Polymer has all the advantages of Li-ion and is smaller.
+
+This orientation concludes that *Li-ion Polymer* is the best battery type for our scenario. 
 
 ### Sources
 http://batteryuniversity.com/learn/archive/whats_the_best_battery
