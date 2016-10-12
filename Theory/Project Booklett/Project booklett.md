@@ -31,11 +31,11 @@ The end product needs to be as cheap as possible, not only the instruments but a
 The MFM has to send a daily report to a central point where everything can be monitored.
 
 ### Assignments:
-1. Design an power supply for the MFM so he can work on his own as much as possible.
-	(a) What is the best combination with solar cells to have the maximum energy output?
-	(b) What is the best way to store energy in periods where there is no sun?
-	(c) How much power do you need for the MFM to function, when there is no sunlight?
-	(d) How much power can you use usually in the Netherlands?
+1. Design an power supply for the MFM so he can work on his own as much as possible.  
+	(a) What is the best combination with solar cells to have the maximum energy output?  
+	(b) What is the best way to store energy in periods where there is no sun?  
+	(c) How much power do you need for the MFM to function, when there is no sunlight?  
+	(d) How much power can you use usually in the Netherlands?  
 2. Design a circuit that turns off the MFM after every measurement.
 3. Design a system, so the MFM can contact to central server on any location. 
 4. Design and make a prototype of the casing from the MFM with every aspect on it. 
