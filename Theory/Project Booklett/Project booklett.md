@@ -63,6 +63,10 @@ LoRa Network
 The LoRa Network is one of the most important requirements in our project. 
 A LoRa network is sort off a Wifi network, but the LoRa Network has a range of about 2 kilometres in urban environments and up to 20 kilometres in plain fields. We want to use this network, so MFM's can communicate with the central server so you don't have to travel every time to the MFM's to check the data. The MFM project depends on the LoRa Network. 
 
+Planning
+------------
+![alt text](https://github.com/TimVosch/Aqua/blob/master/Theory/Media/Planning%20MFM.PNG)
+
 
 
 
