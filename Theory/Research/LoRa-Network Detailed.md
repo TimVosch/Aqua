@@ -6,8 +6,7 @@ At the most fundamental level, radio protocols like LoRaWAN are fairly simple. T
 Simply said LoRaWAN works with one gateway, let's call it Scheldenstromen, this gateway will communicate with several recievers, let's call them MFM's.  
 So if one of the MFM's wanted to communicate with Scheldenstromen it would just communicate without a problem, but if at a certain point eight or more MFM's wanted to communicate it would not work. This is because all the MFM's send the same signal so it would interfere. Most gateways can recieve eight messages at the same time, across any number of frequenty channels.  
 ![alt text](https://github.com/TimVosch/Aqua/blob/master/Theory/Media/LoRaWAN%20signals.png "LoraWan Signals")  
-Above here you see how at the moment one of the MFM's send something the rest cannot send anything.
-
+The top bar in the picture above is the bar of the gateway (Scheldenstromen). The ones below the first one are the recievers (MFM's). You can see that when one of the MFM's is busy with a message the rest cannot send anything. The gateway ofcourse has more then one of these "bars" most of them have eight.
 
 ###### source:
 http://www.link-labs.com/what-is-lorawan/  
