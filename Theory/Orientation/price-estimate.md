@@ -2,31 +2,21 @@
 €245,65
 > https://github.com/ttn-zh/ic880a-gateway/wiki#ordering-the-parts
 
+#### Prebuild gateway:
+> http://webshop.ideetron.nl/LORANK-8 €412,00
 
 #### LoRa Sensors:
-> http://webshop.ideetron.nl/RFM95W  
-> http://webshop.ideetron.nl/LoRa  
-> https://www.cooking-hacks.com/shop/wireless/extreme-range-lora
-
-#### Water measurement sensors : 
-> http://www.libelium.com/products/plug-sense/
-> http://www.libelium.com/new-ion-sensor-probes-pro-ammonia-magnesium-nitrite-sodium-nitrate-lithium-fluoride-chloride-iodide-cupric-bromide-silver-smart-wat
+> http://webshop.ideetron.nl/RFM95W  €10,98. 
 
 #### antenna for arduino
-> https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-433-mhz
+LoRaWAN Module 868 with Expansion Board €83.00
+> https://www.cooking-hacks.com/lorawan-module-868-expansion-board
 
-#### Water sensors
-> https://www.cooking-hacks.com/shop/sensors/water-quality
-
-#### how to build lora network
-https://docs.mbed.com/docs/lora-with-mbed/en/latest/intro-to-lora/
-
-#### Things needed for lora network:
-- Gateway ( https://www.loriot.io/gateways.html ,  https://github.com/ttn-zh/ic880a-gateway/wiki#ordering-the-parts)
-- Devices
-- Device firmware
-- Network
-
+#### Device firmware: 
+- the things network €0,00
+- lotriot.io €0,00
+================================
+price estimate for the network with 1 device is between €339,60 and €505,98  
 
 
 
