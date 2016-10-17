@@ -15,7 +15,7 @@ LoRaWAN Module 868 with Expansion Board €83.00
 #### Device firmware: 
 - the things network €0,00
 - lotriot.io €0,00
-================================
+
 price estimate for the network with 1 device is between €339,60 and €505,98  
 
 
