@@ -1,4 +1,4 @@
-LoRa-network Detailed
+LoRaWAN-network
 ===
 ### How does LoRaWAN work?
 ---
