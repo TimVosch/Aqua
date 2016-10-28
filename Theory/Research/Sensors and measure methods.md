@@ -23,6 +23,8 @@ Ideal applications for the _Manta 2 Water Quality Sonde_ include groundwater int
 
 The _Manta 2 Water Quality Sonde_ is available in different sizes.
 
+Parameter:  any of a set of physical properties whose values determine the characteristics or behavior of something <parameters of the atmosphere such as temperature, pressure, and density>
+
 __Available parameters__
 - Temperature
 - Polargraphic (Clark) DO
@@ -43,12 +45,59 @@ __Available parameters__
 - Rhodamine
 - Blue Green Algae
 
+So as you can see, there are multiple parameters available. We are gonna need most of them probably,but first we want know which ones are the most important. 
+
+####The details of the sensors:
+
+#####Optical Dissolved Oxygen Sensor
+The optical dissolved oxygen sensor has no replaceable membranes or caps and requires no circulator. It provides exceptional accuracy and uses luminescent dissolved oxygen technology. It is insensitive to hydrogen sulfide (H2S) compared to polargraphic DO sensors and is not damaged by sunlight.
+
+#####Turbidity Sensor
+The turbidity sensor is highly accurate up to 3000NTU's. It has a self cleaning wiper that is user programable up to 5 wipes to remove biological growth or debris.
+
+#####Chlorophyll a Sensor
+The Chlorophyllsensor accurately measures in 3 ranges from 0.03 to 500 ug/L. It has ambient light and turbidity rejection circuitry and fast response time and compact design. An adjustable secondary standard is available for calibration and quick check.
+
+#####Blue-Green Algae Sensor
+The Blue-Green Algae sensor accurately measures in 3 ranges from 0 - 2,000,000 cells/mL Cyanobacteria (phycocyanin or phycoerythrin). It identifies potential algae blooms and provides substantial cost savings by eliminating cell counting.
+
+#####Rhodamine WT Sensor
+The Rhodamine WT Sensor measures accurately in 3 ranges from 0.04 to 1000 ppb. It is available with a secondary standard for quick and accurate calibration. Accurate readings and a fast response time are ensured with its ambient light rejection and fast response time. Small sample size volume design and high quality optics provide turbidity rejection
+
+#####Depth
+Depth sensors are available in 5 ranges from 0 - 200 meters in absolute or vented. It has automatic temperature and salinity compensation.
+
+#####Temperature Sensor
+The temperature sensor is a 30k ohm thermistor and has a 316 Stainless Steel housing. The temperature sensor is used to provide compensation for Specific Conductance, Dissolved Oxygen, pH, and Ion Selective Electrodes.
+pH Sensor
+The pH sensor is easily maintained. It has a rebuildable reference with PTFE/FEP Junction so there is no sensor to replace.
+
+#####Conductivity Sensor
+A very accurate sensor for measuring conductivity, specific conductance, salinity and TDS. It requires virtually no maintenance and is accurate up to 100,000 uS/cm. It automatically compensates temperature.
+
+#####Dissolved Oxygen Sensor
+The Dissolved Oxygen Sensor (Polargraphic) has been the standard in the industry for 30 years. Its circulator provides a fast response time in low flow or stagnant waters. No "reconditioning" of the sensor is necessary.
+
+#####Ammonium
+The Ammonia Ion Selective Electrode with replaceable plasticized tips and has a maximum depth of 25 meters. It provides automatic calculation of ammonia and total ammonia concentrations. It is designed for agricultural industry and fertiliser runoff in fresh water. Ammonia ISE's will not work in sea water and interfering ions will effect reading.
+
+#####Chloride
+The Chloride Ion Selective Electrode with replaceable plasticized tips and has a maximum depth of 25 meters. It is ideal for measurement of saltwater intrusion or as an effective tracer for pollution.
+
+#####Nitrate Ion Selective Electrodes
+The Nitrate Ion Selective Electrode with replaceable plasticized tips and has a maximum depth of 25 meters. It provides automatic correction of temperature and automatic compensation for ionic strength concentrations.
+
+__Manufactured by: Eureka__
+
+Source:> http://www.rshydro.co.uk/water-quality-monitoring-equipment/water-quality-testing-equipment/multiparameter-water-quality-sonde/manta-2-multi-parameter-water-quality-sonde/
+
+
 
 
 > http://www.libelium.com/products/plug-sense/
 > https://www.cooking-hacks.com/shop/sensors/water-quality
 > http://www.libelium.com/new-ion-sensor-probes-pro-ammonia-magnesium-nitrite-sodium-nitrate-lithium-fluoride-chloride-iodide-cupric-bromide-silver-smart-water/
-> http://www.rshydro.co.uk/water-quality-monitoring-equipment/water-quality-testing-equipment/multiparameter-water-quality-sonde/manta-2-multi-parameter-water-quality-sonde/
+
 
 
 
