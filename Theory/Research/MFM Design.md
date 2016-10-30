@@ -2,11 +2,12 @@
 The following points will be a combination of multiple documents written by all group members. They will be added here to decide which of these points are possible to achieve with the recourses we have. We have come up with the following points: 
 
 - The solar panel powering our system must be placed at a certain angle to obtain maximum energy to charge its batteries and to power its system
-- it needs to be able to communicate over the LoRa network
-- it needs to be self-sufficient for approx. 1 year 
-- it needs to be able to withstand all weather and temperature conditions without harm to the electronics.
-- it needs to be vandalism-proof
-- it needs to be modular, so every sensor must be able to be attached to our system without too much trouble. 
+- the prototype needs to be able to communicate over the LoRa network
+- the prototype needs to be self-sufficient for approx. 1 year 
+- the prototype needs to be able to withstand all weather and temperature conditions without harm to the electronics.
+- the prototype needs to be vandalism-proof
+- the prototype needs to be modular, so every sensor must be able to be attached to our system without too much trouble. 
+- there must be a functional network supporting the devices and it needs to gather the data in a central point where the data can be viewed and processed. 
  
 
 ## Optimum solar panel placement
