@@ -100,7 +100,8 @@ Still, we are going to analyse the system. Maybe we can find something we also c
 
 | Key Features         | Why it Matters       |
 | -------------------- | -------------------- |
-| Sensor probes measure more than 12 chemical and physical water quality parameters such as pH, dissolved oxygen (DO), conductivity (salinity), oxidation-reduction potential (ORP), turbidity, temperature, etc.	|
+| Sensor probes measure more than 12 chemical and physical water quality parameters such as pH, dissolved oxygen (DO), conductivity (salinity), oxidation-reduction potential (ORP), turbidity, temperature, etc.	| Pollutants can be detected and treated in real-time, to ensure good water quality over an entire water supply network. Extreme pH values may indicate chemical spills, treatment plant issues, or problems in supply pipes. Low levels of DO may indicate the presence of microorganisms due to urban/agricultural runoff or sewage spills. ORP measures how well water sanitization is working. |
+
 
 
 > http://www.libelium.com/products/plug-sense/
