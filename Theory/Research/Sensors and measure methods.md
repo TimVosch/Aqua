@@ -101,23 +101,7 @@ Still, we are going to analyse the system. Maybe we can find something we also c
 | Key Features         | Why it Matters       |
 | -------------------- | -------------------- |
 | Sensor probes measure more than 12 chemical and physical water quality parameters such as pH, dissolved oxygen (DO), conductivity (salinity), oxidation-reduction potential (ORP), turbidity, temperature, etc.	| Pollutants can be detected and treated in real-time, to ensure good water quality over an entire water supply network. Extreme pH values may indicate chemical spills, treatment plant issues, or problems in supply pipes. Low levels of DO may indicate the presence of microorganisms due to urban/agricultural runoff or sewage spills. ORP measures how well water sanitization is working. |
-| The new Ions are:
- Fluoride (F-)
- Calcium (Ca2+)
- Nitrate (NO3-)
- Chloride (Cl-)
- Iodide (I-)
- Cupric (Cu2+)
- Bromide (Br-)
- Silver (Ag+)
- Fluoroborate (BF4-)
- Ammonia [NH4]
- Lithium [Li+]
- Magnesium [Mg2+]
- Nitrite [NO2-]
- Perchlorate [ClO4]
- Potassium [K+]
- Sodium [Na+] | Specific applications include:
+| The new Ions are: Fluoride (F-), Calcium (Ca2+) , Nitrate (NO3-), Chloride (Cl-), Iodide (I-),  Cupric (Cu2+), Bromide (Br-),  Silver (Ag+),  Fluoroborate (BF4-), Ammonia [NH4],  Lithium [Li+], Magnesium [Mg2+],  Nitrite [NO2-],  Perchlorate [ClO4],  Potassium [K+], Sodium [Na+] | Specific applications include:
  Drinking water quality control: Calcium (Ca2+), Iodide (I-), Chloride (Cl-), Nitrate (NO3-), pH
  Agriculture water monitoring: Calcium (Ca2+), Nitrate (NO3-), pH
  Swimming pools: Bromide (Br-), Chloride (Cl-), Fluoride (F-), pH
