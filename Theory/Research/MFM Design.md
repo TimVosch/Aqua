@@ -1,11 +1,15 @@
-#### Requirements for our design
+# Requirements for our design
+The following points will be a combination of multiple documents written by all group members. They will be added here to decide which of these points are possible to achieve with the recourses we have. We have come up with the following points: 
+
+- The solar panel powering our system must be placed at a certain angle to obtain maximum energy to charge its batteries and to power its system
+- it needs to be able to communicate over the LoRa network
+- it needs to be self-sufficient for approx. 1 year 
 - it needs to be able to withstand all weather and temperature conditions without harm to the electronics.
 - it needs to be vandalism-proof
-- it needs to be self-sufficient for approx. 1 year
 - it needs to be modular, so every sensor must be able to be attached to our system without too much trouble. 
-- The solar panel powering our system must be placed at a certain angle to obtain maximum energy to charge its batteries and to power its system 
+ 
 
-#### Optimum solar panel placement
+## Optimum solar panel placement
 We will start with this, since it will influence our entire design, because it will be the main supply of power (along with the battery). 
  To get the most from solar panels, you need to point them in the direction that captures the most sun. But there are a number of variables in figuring out the best direction. 
 
@@ -75,7 +79,8 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 
 
 
-# links used in this documentation
+
+### links used in this documentation
 
 - http://www.expertise.com/green/home-solar-panels-pros-cons-and-hidden-costs
     This site has good information for the homeowner considering going to solar power. 
