@@ -5,7 +5,7 @@
 - it needs to be modular, so every sensor must be able to be attached to our system without too much trouble. 
 - The solar panel powering our system must be placed at a certain angle to obtain maximum energy to charge its batteries and to power its system 
 
-###### Optimum solar panel placement
+#### Optimum solar panel placement
 We will start with this, since it will influence our entire design, because it will be the main supply of power (along with the battery). 
  To get the most from solar panels, you need to point them in the direction that captures the most sun. But there are a number of variables in figuring out the best direction. 
 
@@ -15,7 +15,7 @@ Solar panels should always face true south if you are in the northern hemisphere
 
 The next question is, at what angle from horizontal should the panels be tilted? Books and articles on solar energy often give the advice that the tilt should be equal to your latitude, plus 15 degrees in winter, or minus 15 degrees in summer. It turns out that you can do better than this - about 4% better. 
 
-####### Fixed or ajustable
+##### Fixed or ajustable
 It is simplest to mount your solar panels at a fixed tilt and just leave them there. But because the sun is higher in the summer and lower in the winter, you can capture more energy during the whole year by adjusting the tilt of the panels according to the season. The following table shows the effect of adjusting the angle, using a system at 40° latitude as an example. (The comparison would be a little different for different latitudes.) Each option is compared with the energy received by the best possible tracker that always keeps the panel pointed directly at the sun. 
 > see [Table 1](http://i.imgur.com/B9LZCbr.png)
 
@@ -24,7 +24,7 @@ In short, adjusting the tilt twice a year gives you a meaningful boost in energy
 The graph (1) below shows the effect of adjusting the tilt. The turquoise line shows the amount of solar energy you would get each day if the panel is fixed at the full year angle. The red line shows how much you would get by adjusting the tilt four times a year as described below. For comparison, the green line shows the energy you would get from two-axis tracking, which always points the panel directly at the sun. (The violet line is the solar energy per day if the panel is fixed at the winter angle, discussed below.) These figures are calculated for 40° latitude. 
 > [Graph 1](http://i.imgur.com/XtTluGY.jpg)
 
-####### Fixed tilt
+##### Fixed tilt
 If your solar panels will have a fixed tilt angle, and you want to get the most energy over the whole year, then this section is for you. A fixed angle is convenient, but note that there are some disadvantages. As mentioned above, you’ll get less power than if you adjusted the angle. Also, if you live where there is snow, adjusting the panels to a steeper angle in winter makes it more likely that they will shed snow. A panel covered in snow produces little or no power.
 
 Use one of these formulas to find the best angle from the horizontal at which the panel should be tilted: 
@@ -43,7 +43,7 @@ The best option for our situation would be to leave it at the winter angle, beca
 
 It is also possible to change the angle 4 times a year, but that is far from ideal in our situation so we won't be going in further on that option. 
 
-######## further explanation
+##### further explanation
 These calculations are based on an idealized situation. They assume that you have an unobstructed view of the sky, with no trees, hills, clouds, dust, or haze ever blocking the sun.
 
 You may need to make adjustments for your situation. For example, if you have trees to the east but not the west, it may be better for you to aim your solar panels slightly to the west. Or if you often have clouds in the afternoon but not the morning, you might aim your panels slightly to the east.
@@ -75,7 +75,7 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 
 
 
-
+# links used in this documentation
 
 http://www.expertise.com/green/home-solar-panels-pros-cons-and-hidden-costs
     This site has good information for the homeowner considering going to solar power. 
