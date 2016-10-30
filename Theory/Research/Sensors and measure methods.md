@@ -92,6 +92,15 @@ __Manufactured by: Eureka__
 Source:> http://www.rshydro.co.uk/water-quality-monitoring-equipment/water-quality-testing-equipment/multiparameter-water-quality-sonde/manta-2-multi-parameter-water-quality-sonde/
 
 
+We've then found a system which comes close to our idea for the MFM. It's called Libelium Smart Water. It's a system which can measure multiple ions. You can check water quality, the ions in a swimming pool etc. 
+It's exactly what we need except for the system itself. We only need the sensors, but these sensors are made for the Smart Water board. 
+We are going to check if we can use the sensors individually. 
+
+Still, we are going to analyse the system. Maybe we can find something we also can use in the MFM. 
+
+| Key Features         | Why it Matters       |
+| -------------------- | -------------------- |
+| Sensor probes measure more than 12 chemical and physical water quality parameters such as pH, dissolved oxygen (DO), conductivity (salinity), oxidation-reduction potential (ORP), turbidity, temperature, etc.	|
 
 
 > http://www.libelium.com/products/plug-sense/
