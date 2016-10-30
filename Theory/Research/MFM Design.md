@@ -77,10 +77,10 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 
 # links used in this documentation
 
-http://www.expertise.com/green/home-solar-panels-pros-cons-and-hidden-costs
+- http://www.expertise.com/green/home-solar-panels-pros-cons-and-hidden-costs
     This site has good information for the homeowner considering going to solar power. 
-http://www.nrel.gov/rredc/solar_resource.html
+- http://www.nrel.gov/rredc/solar_resource.html
     The National Renewable Energy Laboratory has copious data on solar energy available at different locations in the United States, a performance calculator for PV systems, and more. 
-http://www.gaisma.com
+- http://www.gaisma.com
     This site has sunrise, sunset, and insolation data for worldwide locations. 
 
