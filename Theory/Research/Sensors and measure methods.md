@@ -106,7 +106,7 @@ Still, we are going to analyse the system. Maybe we can find something we also c
 | Battery powered, low power requirements. | Because no wiring is necessary Waspmote installation takes just minutes and can provide remote monitoring for years. 
 | CE / FCC /IC certification and quad-band connectivity (850/900/1900/2100MHz) | Waspmote supports any cellular connection provider, and is ready for deployment in any country in the world |
 
-These are the technical characteristics from the Libelium Smart Water system. It's already low powered, but we are aiming for a lower power ussage. 
+These are the technical specifications from the Libelium Smart Water system. It's already low powered, but we are aiming for even a lower power ussage. 
 
 Sources: http://www.libelium.com/new-ion-sensor-probes-pro-ammonia-magnesium-nitrite-sodium-nitrate-lithium-fluoride-chloride-iodide-cupric-bromide-silver-smart-water/
 http://www.libelium.com/smart-water-ions-sensors-calcium-fluoride-chloride-nitrate-iodide-lead-bromide-cupric-silver/
