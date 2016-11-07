@@ -90,4 +90,6 @@ Out battery needs to be able to store power from a solar panel and it needs to s
     The National Renewable Energy Laboratory has copious data on solar energy available at different locations in the United States, a performance calculator for PV systems, and more. 
 - http://www.gaisma.com
     This site has sunrise, sunset, and insolation data for worldwide locations. 
+- http://ezbatteryreconditioning.com/3-best-batteries-for-off-grid-energy-system/ Information about batteries and how they operate
+
 
