@@ -1,6 +1,9 @@
 Central server control vs independent control
 ---
 
+#The below is redundant, server has to take all responsibility for the clients!
+
+____
 The MFM has to have a central server to report data to, alerts and other information. Without a central server our goal of an automated system goes down the drain.
 
 But does the MFM has to do anything? We could have the MFM only connect and register to the server and have the server request for reports, battery level etc.  
