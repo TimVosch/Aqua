@@ -6,10 +6,11 @@ The Multiflexmeter (_MFM_) is a small modulair device that is placed near waters
 Ofcourse not all of this has to be measured everywhere, that's where the modulair property of the MFM comes in play, it allows for a plug-and-play style sensor equipping and will start transferring data immediatly.
 
 This project is sponsored by [Scheldestromen](http://www.scheldestromen.nl/algemene_onderdelen/talen/english).
+Official [Multiflexmeter website](http://www.multiflexmeter.nl/)
 
 ##### Extras
 Also related to this project is:
 
 http://www.github.com/timvosch/aqua_suite/  
-http://mfm.azurewebsites.net/  
-http://mfm.azurewebsites.net/git2log/
+http://aquasuite.azurewebsites.net/  
+http://aquasuite.azurewebsites.net/git2log/
