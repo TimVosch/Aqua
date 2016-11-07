@@ -65,8 +65,8 @@ This formula assumes that the earth is flat, so a factor was applied to account 
 
 Other published articles on tilt angles have used less accurate calculations. For example, Richard Perez and Sam Coleman, in “PV Module Angles”, Home Power n.34 p.14-16, 1993, recommend an angle that puts the panel perpendicular to the sun’s rays at noon. That is indeed the best angle at noon on that day, but it does not take into account the best angle for capturing solar energy at other times of the day. That article also leaves it to the reader to estimate the best angle over the period until the next time the tilt is adjusted.
 
-> w.i.p. the other documents need to be added here  
-
+## power supply
+Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. 
 
 
 
