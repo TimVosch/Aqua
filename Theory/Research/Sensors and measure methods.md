@@ -108,6 +108,9 @@ Still, we are going to analyse the system. Maybe we can find something we also c
 
 These are the technical specifications from the Libelium Smart Water system. It's already low powered, but we are aiming for even a lower power ussage. 
 
+After research, we found out that we can buy the sensors apart from the system. 
+
+
 Sources: http://www.libelium.com/new-ion-sensor-probes-pro-ammonia-magnesium-nitrite-sodium-nitrate-lithium-fluoride-chloride-iodide-cupric-bromide-silver-smart-water/
 http://www.libelium.com/smart-water-ions-sensors-calcium-fluoride-chloride-nitrate-iodide-lead-bromide-cupric-silver/
 http://www.libelium.com/development/waspmote/documentation/smart-water-board-technical-guide
