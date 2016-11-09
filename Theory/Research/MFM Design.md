@@ -95,6 +95,8 @@ Out battery needs to be able to store power from a solar panel and it needs to s
 - http://www.power-sonic.com/ps_psg_series.php voltages of batteries
 - https://www.batterystuff.com/kb/articles/battery-articles/battery-basics.html
 - https://en.wikipedia.org/wiki/Comparison_of_battery_types
+- http://batteryuniversity.com/learn/article/secondary_batteries
+
 
 
 
