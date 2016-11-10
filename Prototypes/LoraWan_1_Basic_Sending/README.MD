@@ -17,3 +17,9 @@ Connect the pins as follow:
 | DIO5   	| Pin 4   	|
 | DIO1   	| Pin 3   	|
 | DIO0   	| Pin 2   	|
+
+## Antenne
+It is important that the antenne is 81 mm in length. This is because of the frequency in wich you send and recieve data.
+
+## Programming
+This example uses ABP instead of OTAA, due to the limited capabilities of this demo. In production OTAA is prefered instead of ABP. They both need special keys, which are retrievable at the LoRaWANN backend side(eg. Loriot or TTN) In this case NwkSkey AppSkey and DevAddr are used.
