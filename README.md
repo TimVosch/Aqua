@@ -12,5 +12,4 @@ Official [Multiflexmeter website](http://www.multiflexmeter.nl/)
 Also related to this project is:
 
 http://www.github.com/timvosch/aqua_suite/  
-http://aquasuite.azurewebsites.net/  
-http://aquasuite.azurewebsites.net/git2log/
+http://mfmsuite.nl/
