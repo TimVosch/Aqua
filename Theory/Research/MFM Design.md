@@ -97,6 +97,7 @@ Out battery needs to be able to store power from a solar panel and it needs to s
 - https://en.wikipedia.org/wiki/Comparison_of_battery_types
 - http://batteryuniversity.com/learn/article/secondary_batteries
 - http://www.brighthubengineering.com/power-generation-distribution/123909-types-of-batteries-and-their-applications/
+- https://www.reddit.com/r/AskElectronics/comments/5cekvo/project_idea_advice_needed_with_battery_choice/
 
 
 
