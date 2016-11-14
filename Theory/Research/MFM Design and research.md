@@ -81,6 +81,7 @@ However , it has its downsides, which makes it unsuitable for our situation:
 - The battery's capacity slowly uses it's storage capacity, because the sulfate sticks to the electrodes and minimalises their surface area
 - It is possible that gases are created during the charging state if it is used exessively. This can cause explosions in the battery. 
 - If the battery can't let the gases escape, then there will be corrosion due to acid gases in the battery. This results in the formation of crystals in the sulfuric acid solution, which interferes with the battery's performance. 
+these things only happen if the battery is discharged to 0% and if it's overcharged. If you keep it at approx 50% charged, you'll only need to refill the battery once every 6 months, so it still is unsuitable for our purposes. 
 
 
 
