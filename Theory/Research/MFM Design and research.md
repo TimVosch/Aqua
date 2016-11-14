@@ -73,7 +73,91 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 
 ## power supply
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
-Here is a list of batteries and their technical specification :
+First we will provide a list of all rechargable batteries and then we will pick some interesting batteries which might suit our needs.
+Secondary cells or rechargeable batteries 
+
+    Alkaline battery (zinc manganese oxide, carbon)
+    Aluminium–air battery
+    Aluminium-ion battery
+    Atomic battery
+        Betavoltaics
+        Optoelectric nuclear battery
+        Nuclear micro-battery
+    Bunsen cell
+    Chromic acid cell (Poggendorff cell)
+    Clark cell
+    Daniell cell
+    Dry cell
+    Earth battery
+    Frog battery
+    Galvanic cell
+    Grove cell
+    Leclanché cell
+    Lemon/potato battery
+    Lithium battery
+    Lithium air battery
+    Magnesium battery
+    Mercury battery
+    Molten salt battery
+    Nickel oxyhydroxide battery
+        Oxyride battery
+    Organic radical battery
+    Paper battery
+    Pulvermacher's chain
+    Silver-oxide battery
+    Solid-state battery
+    Voltaic pile
+        Penny battery
+        Trough battery
+    Water-activated battery
+    Weston cell
+    Zinc–air battery
+    Zinc–carbon battery
+    Zinc chloride battery
+
+	
+
+    Flow battery
+        Vanadium redox battery
+        Zinc–bromine battery
+        Zinc–cerium battery
+    Lead–acid battery
+        Deep cycle battery
+        VRLA battery
+        AGM battery
+        Gel battery
+    Lithium air battery
+    Lithium-ion battery
+        Lithium ion lithium cobalt oxide battery (ICR)
+        Lithium ion manganese oxide battery (IMR)
+        Lithium ion polymer battery
+        Lithium iron phosphate battery
+        Lithium–sulfur battery
+        Lithium–titanate battery
+        Thin film lithium-ion battery
+    Magnesium-ion battery
+    Molten salt battery
+    Nickel–cadmium battery
+        Nickel–cadmium battery vented cell type
+    Nickel hydrogen battery
+    Nickel–iron battery
+    Nickel metal hydride battery
+        Low self-discharge NiMH battery
+    Nickel–zinc battery
+    Organic radical battery
+    Polymer-based battery
+    Polysulfide bromide battery
+    Potassium-ion battery
+    Rechargeable alkaline battery
+    Rechargeable fuel battery
+    Silicon air battery
+    Silver-zinc battery
+    Silver calcium battery
+    Sodium-ion battery
+    Sodium–sulfur battery
+    Sugar battery
+    Super iron battery
+    UltraBattery
 
 ### Lead acid battery 
 Lead acid batteries are widely uses in the industry of batteries. It is the oldest rechargable battery type. Despite having a low power to mass ratio and a low volume to energy ratio, is has a relatively high power to weight ratio. It doesn't cost a lot of money to produce. The battery consists of PbSo4 plates as the 2 electrodes and they are surrounded by sulfuric acid. They work like a normal eletrochemical cell and electrolytical cell, with 2 reactions per electrode. 
@@ -139,6 +223,7 @@ The only differece between these 2 is the price and quality: The Gell battery ha
 - http://batteryuniversity.com/learn/article/secondary_batteries
 - http://www.brighthubengineering.com/power-generation-distribution/123909-types-of-batteries-and-their-applications/
 - https://www.reddit.com/r/AskElectronics/comments/5cekvo/project_idea_advice_needed_with_battery_choice/
+- http://www.canbat.ca/guide-agm-batteries-gel-batteries/
 
 
 
