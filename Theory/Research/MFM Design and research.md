@@ -30,8 +30,8 @@ Table 1:
 In short, adjusting the tilt twice a year gives you a meaningful boost in energy. Adjusting four times a year produces only a little more, but could be important if you need to optimize production in spring and fall
 
 The graph (1) below shows the effect of adjusting the tilt. The turquoise line shows the amount of solar energy you would get each day if the panel is fixed at the full year angle. The red line shows how much you would get by adjusting the tilt four times a year as described below. For comparison, the green line shows the energy you would get from two-axis tracking, which always points the panel directly at the sun. (The violet line is the solar energy per day if the panel is fixed at the winter angle, discussed below.) These figures are calculated for 40° latitude. 
-> [Graph 1](http://i.imgur.com/XtTluGY.jpg)
-
+Graph 1:
+![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/graph%201.jpg "Logo Title Text 2") 
 ##### Fixed tilt
 If your solar panels will have a fixed tilt angle, and you want to get the most energy over the whole year, then this section is for you. A fixed angle is convenient, but note that there are some disadvantages. As mentioned above, you’ll get less power than if you adjusted the angle. Also, if you live where there is snow, adjusting the panels to a steeper angle in winter makes it more likely that they will shed snow. A panel covered in snow produces little or no power.
 
