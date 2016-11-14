@@ -83,21 +83,8 @@ However , it has its downsides, which makes it unsuitable for our situation:
 - If the battery can't let the gases escape, then there will be corrosion due to acid gases in the battery. This results in the formation of crystals in the sulfuric acid solution, which interferes with the battery's performance. 
 these things only happen if the battery is discharged to 0% and if it's overcharged. If you keep it at approx 50% charged, you'll only need to refill the battery once every 6 months, so it still is unsuitable for our purposes. 
 2. Absorbed Glass Mat battery (AGM )
-- AGM batteries are based on the same principles as the lead-acid battery, but they have different specification which make then better. The difference between the AGM and LA battery is the fact that the sulfuric acid is absorbed by a very fine fiberglass mat, making the battery spill-proof. This enables shipment without hazardous material restrictions. The plates can be made flat to resemble a standard flooded lead acid pack in a rectangular case; they can also be wound into a cylindrical cell. AGM has very low internal resistance, and is capable of delivering high currents on demand and offers a relatively long service life, even when deep cycled. AGM is maintenance free, provides good electrical reliability and is lighter than the flooded lead acid type. While regular lead acid batteries need a topping charge every six months to prevent the buildup of sulfation, AGM batteries are less prone to sulfation and can sit in storage for longer before a charge becomes necessary. The battery stands up well to low temperatures and has a low self-discharge. Here is a table to show its properties :
-Advantages : 
-- Spill-proof through acid encapsulation in matting technology
-- High specific power, low internal resistance, responsive to load
-- Up to 5 times faster charge than with flooded technology
-- Better cycle life than with flooded systems, like lead acid
-- Water retention (oxygen and hydrogen combine to produce water)
-- Vibration resistance due to sandwich construction
-- Stands up well to cold temperature
-- Less prone to sulfation if not regularly topping charged
-
-Disadvantages
-
-
-
+- AGM batteries are based on the same principles as the lead-acid battery, but they have different specification which make then better. AGM batteries differ from flooded lead acid batteries in that the electrolyte is held in the glass mats, as opposed to freely flooding the plates. Very thin glass fibers are woven into a mat to increase surface area enough to hold sufficient electrolyte on the cells for their lifetime. The fibers that compose the fine glass mat do not absorb nor are they affected by the acidic electrolyte. These mats are wrung out 2–5% after being soaked in acids, prior to manufacture completion and sealing.
+The plates in an AGM battery may be any shape. Some are flat, others are bent or rolled. AGM batteries, both deep cycle and starting, are built in a rectangular case to BCI battery code specifications.
 
 
 
