@@ -40,7 +40,8 @@ Use one of these formulas to find the best angle from the horizontal at which th
 - If your latitude is between 25° and 50°, use the latitude, times 0.76, plus 3.1 degrees
 
 This table (2) gives some examples for different latitudes. It also shows the average insolation on the panel over the year (in kWh/m2 per day), and the energy received compared to the best possible tracker
-> [Table 2](http://i.imgur.com/DXoVbNJ.png)
+
+:Table 2 ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/table%202.png "Logo Title Text 3")
 
 If you want to adjust the angle of your panels twice a year, you should follow the table (3) below for the best dates of change:
 > [Table 3](http://i.imgur.com/AiC8lon.png)
