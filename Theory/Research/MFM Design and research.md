@@ -44,11 +44,13 @@ This table (2) gives some examples for different latitudes. It also shows the av
 :Table 2 ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/table%202.png "Logo Title Text 3")
 
 If you want to adjust the angle of your panels twice a year, you should follow the table (3) below for the best dates of change:
-> [Table 3](http://i.imgur.com/AiC8lon.png)
+
+: Table 3: ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/table%203.png "Logo Title Text 4")
 If your latitude is between 25° and 50°, then the best tilt angle for summer is the latitude, times 0.93, minus 21 degrees. The best tilt angle for winter is the latitude, times 0.875, plus 19.2 degrees
 
 The best option for our situation would be to leave it at the winter angle, because our need for energy will be higher in winter. Although you could get more energy during other seasons by adjusting the tilt, you will get enough energy without making any adjustment. The following tables( 4) assume that the tilt is set at the winter optimum all year long. They show the amount of insolation (in kWh/m2) on the panel each day, averaged over the season. 
-> [Table 4](http://i.imgur.com/2vGfJMj.png)
+
+: table 4: ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/table%204.png "Logo Title Text 4")
 
 It is also possible to change the angle 4 times a year, but that is far from ideal in our situation so we won't be going in further on that option. 
 
