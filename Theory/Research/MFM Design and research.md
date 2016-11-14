@@ -75,7 +75,7 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
 Here is a list of batteries and their technical specification :
 
-1. Lead acid battery 
+### Lead acid battery 
 Lead acid batteries are widely uses in the industry of batteries. It is the oldest rechargable battery type. Despite having a low power to mass ratio and a low volume to energy ratio, is has a relatively high power to weight ratio. It doesn't cost a lot of money to produce. The battery consists of PbSo4 plates as the 2 electrodes and they are surrounded by sulfuric acid. They work like a normal eletrochemical cell and electrolytical cell, with 2 reactions per electrode. 
 It has multiple uses like :
 - starting cars
@@ -90,34 +90,27 @@ However , it has its downsides, which makes it unsuitable for our situation:
 - If the battery can't let the gases escape, then there will be corrosion due to acid gases in the battery. This results in the formation of crystals in the sulfuric acid solution, which interferes with the battery's performance. 
 these things only happen if the battery is discharged to 0% and if it's overcharged. If you keep it at approx 50% charged, you'll only need to refill the battery once every 6 months, so it still is unsuitable for our purposes. 
 
-2. AGM and Gell battery
+### AGM and Gell battery
+I took these 2 together since they are almost identical, with only small differences. To make it easier for myself, i have combined these 2 below: 
 
-AGM Batteries
+#### AGM Batteries
 
 AGM stands for Absorbed Glass Mat, which is a unique mat deliberately designed to trap the electrolyte between the plates inside the battery. This type of battery is also commonly referred to as a VRLA battery, which stands for Valve-Regulated Lead-Acid battery. Unlike wet batteries, AGM batteries only hold a small amount acid to help keep the mat wet. This is a major safety feature that prevents acid from leaking if the battery breaks. AGM batteries are normally referred to as “all-purpose batteries” due to their wide range of applications, such as emergency lights, alarm and security systems, EPS and UPS.
 
- 
-Gel Batteries
+#### Gel Batteries
 
 Gel batteries contain a specially formulated paste, silica gel, where the battery electrolyte are trapped in. Unlike AGM batteries, Gel batteries allow the electrons to flow between plates. However, Gel batteries are similar to AGM batteries in the sense that they are both non-spillable if the battery breaks. The most common applications for Gel batteries include: renewable energy, medical equipment, golf trolleys, garden equipment and traffic lights.
 
  
-Life expectancy
+#### Life expectancy
 
-Battery life expectancy is not measured by a year count. Rather, it is measured by the number of times it can be charged and discharged. This is referred to as the battery’s cycle life. Both AGM and Gel batteries are recommended to always be fully charged when possible, and not to be discharged lower than 50%. However, Canbat batteries have one of the highest cycle life in the lead-acid battery industry, and they can be discharged up to 60% without causing the battery any harm.
+Battery life expectancy is not measured by a year count. Rather, it is measured by the number of times it can be charged and discharged. This is referred to as the battery’s cycle life. Both AGM and Gel batteries are recommended to always be fully charged when possible, and not to be discharged lower than 50%. However, Canbat (=the brand i researched) batteries have one of the highest cycle life in the lead-acid battery industry, and they can be discharged up to 60% without causing the battery any harm.
 
- 
+All-purpose AGM batteries have a cycle life of 500 cycles at a 50% depth of discharge. This means that an AGM battery can be charged and discharged 500 times. If the battery is charged and discharged once a day, an AGM battery can last for 500 days, which is roughly a year and a half, at full capacity. After 500 cycles, the battery will still work but at a lower capacity, meaning that it will not give you the same amount of energy as before.
 
-Canbat all-purpose AGM batteries have a cycle life of 500 cycles at a 50% depth of discharge. This means that an AGM battery can be charged and discharged 500 times. If the battery is charged and discharged once a day, an AGM battery can last for 500 days, which is roughly a year and a half, at full capacity. After 500 cycles, the battery will still work but at a lower capacity, meaning that it will not give you the same amount of energy as before.
+Gel batteries work in the same manner, but they have a much higher cycle life of 1,200 cycles, at a 50% depth of discharge. If a Canbat Gel battery is charged and discharged once a day, it can last for 1,200 days, which is about 3 years and 5 months. Having a relatively high battery cycle life is one of the most striking features of a Gel battery.
 
- 
-
-Canbat Gel batteries work in the same manner, but they have a much higher cycle life of 1,200 cycles, at a 50% depth of discharge. If a Canbat Gel battery is charged and discharged once a day, it can last for 1,200 days, which is about 3 years and 5 months. Having a relatively high battery cycle life is one of the most striking features of a Gel battery.
-
- 
-
-Most people want their batteries to be at full capacity for maximum energy. If you are one of those people, you could replace your battery once you reach the maximum cycle life. However, please take care of the environment and recycle your batteries at a depot near you. Alternatively, you could use your old batteries for other applications that do not require a lot of capacity, such as LED backup lighting.
-
+The only differece between these 2 is the price and quality: The Gell battery has a much higher price, but it comes with a bigger life expectancy than the AGM battery. 
 
 
 
