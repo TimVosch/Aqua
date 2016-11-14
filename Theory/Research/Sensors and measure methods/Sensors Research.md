@@ -42,7 +42,7 @@ Depending on the concentration of the electrolyte, the conductivity of the aqueo
 
 Explanation Sensor: https://youtu.be/SfYD8JZ1wK4
 
-
+OWN SENSOR????? -> https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
 
 
 
