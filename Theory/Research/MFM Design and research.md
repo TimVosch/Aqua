@@ -82,9 +82,34 @@ However , it has its downsides, which makes it unsuitable for our situation:
 - It is possible that gases are created during the charging state if it is used exessively. This can cause explosions in the battery. 
 - If the battery can't let the gases escape, then there will be corrosion due to acid gases in the battery. This results in the formation of crystals in the sulfuric acid solution, which interferes with the battery's performance. 
 these things only happen if the battery is discharged to 0% and if it's overcharged. If you keep it at approx 50% charged, you'll only need to refill the battery once every 6 months, so it still is unsuitable for our purposes. 
-2. Absorbed Glass Mat battery (AGM )
-- AGM batteries are based on the same principles as the lead-acid battery, but they have different specification which make then better. AGM batteries differ from flooded lead acid batteries in that the electrolyte is held in the glass mats, as opposed to freely flooding the plates. Very thin glass fibers are woven into a mat to increase surface area enough to hold sufficient electrolyte on the cells for their lifetime. The fibers that compose the fine glass mat do not absorb nor are they affected by the acidic electrolyte. These mats are wrung out 2–5% after being soaked in acids, prior to manufacture completion and sealing.
-The plates in an AGM battery may be any shape. Some are flat, others are bent or rolled. AGM batteries, both deep cycle and starting, are built in a rectangular case to BCI battery code specifications.
+2. AGM and Gell battery
+
+AGM Batteries
+
+AGM stands for Absorbed Glass Mat, which is a unique mat deliberately designed to trap the electrolyte between the plates inside the battery. This type of battery is also commonly referred to as a VRLA battery, which stands for Valve-Regulated Lead-Acid battery. Unlike wet batteries, AGM batteries only hold a small amount acid to help keep the mat wet. This is a major safety feature that prevents acid from leaking if the battery breaks. AGM batteries are normally referred to as “all-purpose batteries” due to their wide range of applications, such as emergency lights, alarm and security systems, EPS and UPS.
+
+ 
+Gel Batteries
+
+Gel batteries contain a specially formulated paste, silica gel, where the battery electrolyte are trapped in. Unlike AGM batteries, Gel batteries allow the electrons to flow between plates. However, Gel batteries are similar to AGM batteries in the sense that they are both non-spillable if the battery breaks. The most common applications for Gel batteries include: renewable energy, medical equipment, golf trolleys, garden equipment and traffic lights.
+
+ 
+Life expectancy
+
+Battery life expectancy is not measured by a year count. Rather, it is measured by the number of times it can be charged and discharged. This is referred to as the battery’s cycle life. Both AGM and Gel batteries are recommended to always be fully charged when possible, and not to be discharged lower than 50%. However, Canbat batteries have one of the highest cycle life in the lead-acid battery industry, and they can be discharged up to 60% without causing the battery any harm.
+
+ 
+
+Canbat all-purpose AGM batteries have a cycle life of 500 cycles at a 50% depth of discharge. This means that an AGM battery can be charged and discharged 500 times. If the battery is charged and discharged once a day, an AGM battery can last for 500 days, which is roughly a year and a half, at full capacity. After 500 cycles, the battery will still work but at a lower capacity, meaning that it will not give you the same amount of energy as before.
+
+ 
+
+Canbat Gel batteries work in the same manner, but they have a much higher cycle life of 1,200 cycles, at a 50% depth of discharge. If a Canbat Gel battery is charged and discharged once a day, it can last for 1,200 days, which is about 3 years and 5 months. Having a relatively high battery cycle life is one of the most striking features of a Gel battery.
+
+ 
+
+Most people want their batteries to be at full capacity for maximum energy. If you are one of those people, you could replace your battery once you reach the maximum cycle life. However, please take care of the environment and recycle your batteries at a depot near you. Alternatively, you could use your old batteries for other applications that do not require a lot of capacity, such as LED backup lighting.
+
 
 
 
