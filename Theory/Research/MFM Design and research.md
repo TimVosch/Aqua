@@ -74,7 +74,7 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 ## power supply
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
 First we will provide a list of all rechargable batteries and then we will pick some interesting batteries which might suit our needs.
-Secondary cells or rechargeable batteries 
+List ofSecondary cells or rechargeable batteries:  
 
     Alkaline battery (zinc manganese oxide, carbon)
     Aluminium–air battery
@@ -224,6 +224,7 @@ The only differece between these 2 is the price and quality: The Gell battery ha
 - http://www.brighthubengineering.com/power-generation-distribution/123909-types-of-batteries-and-their-applications/
 - https://www.reddit.com/r/AskElectronics/comments/5cekvo/project_idea_advice_needed_with_battery_choice/
 - http://www.canbat.ca/guide-agm-batteries-gel-batteries/
+- https://en.wikipedia.org/wiki/List_of_battery_types
 
 
 
