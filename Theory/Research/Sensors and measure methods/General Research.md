@@ -5,20 +5,20 @@ For our project, we want an inventarisation of sensors in which you can find the
 
 #### Type of sensors
 ###### Water Level Sensors
-There are multiple sensors we can use for the MFM. We want to find a sensor with low-power ussage.First we want to know more about the sensors. That's why we are going to inventarise on the sensors and meausure methods so we can make the best choice. 
+There are multiple sensors we can use for the MFM. We want to find a sensor with low-power usage.First we want to know more about the sensors. That's why we are going to inventorise the sensors and measure methods so we can make the best choice for our sensors. 
 
 The first sensor we have found, is the _Manta 2 Water Quality Sonde_
-The _Manta 2 Water Quality Sondes_ are suitable for use in any natural water up to 50°C. It can be used as an unattended logger, used for spot testing and profiling with use of the Amphibian display unit / PDA or installed with wireless telemetry systems.
+The _Manta 2 Water Quality Sondes_ are suitable for use in both salt and fresh water up to 50°C. It can be used as an unattended logger, used for spot testing and profiling with use of the Amphibian display unit / PDA or installed with wireless telemetry systems.
 But what is a Amphibian display unit?
 __The Amphibian display unit / PDA:__
 
-The Amphibian is a handheld Pocket PC which provides an effective solution to field monitoring needs. It has a waterproof, chrushproof case which meets military standards and has a built in rechargeable battery pack. It is suitable for use with the Eureka Multiprobe.
+The Amphibian is a handheld Pocket PC which provides an effective solution to field monitoring needs. It has a waterproof, crushproof case which meets military standards and has a built-in rechargeable battery pack. It is suitable for use with the Eureka Multiprobe.
 
 The Eureka software provides everything you need for use in the field and allows you to quickly view and graph your data.
 
 The easy to use Pocket PC allows the user to set up rolling displays of data, capture a data frame, start a timed log, and average the data readings. It comes with Pocket Word and Excel.
 
-The users contacts and address book can be easily managed. When connected, data is automatically connected to your desktop.
+The users contacts and address book can be easily managed. When connected, data is automatically viewable on your desktop.
 Ideal applications for the _Manta 2 Water Quality Sonde_ include groundwater interaction, saltwater intrusion, surface water, reservoir and lake monitoring, estuary monitoring, watershed and source water protection, beach monitoring, storm water runoff, NPS monitoring, NPDES discharge, wastewater influent, effluent, vertical profiling, process water and aquaculture.
 
 The _Manta 2 Water Quality Sonde_ is available in different sizes.
@@ -45,7 +45,7 @@ __Available parameters__
 - Rhodamine
 - Blue Green Algae
 
-So as you can see, there are multiple parameters available. We are gonna need most of them probably,but first we want know which ones are the most important. 
+So as you can see, there are multiple parameters available. We likely  need most of them ,but first we want know which ones are the most important for us. 
 
 ####The details of the sensors:
 
@@ -92,8 +92,8 @@ __Manufactured by: Eureka__
 Source:> http://www.rshydro.co.uk/water-quality-monitoring-equipment/water-quality-testing-equipment/multiparameter-water-quality-sonde/manta-2-multi-parameter-water-quality-sonde/
 
 
-We've then found a system which comes close to our idea for the MFM. It's called Libelium Smart Water. It's a system which can measure multiple ions. You can check water quality, the ions in a swimming pool etc. 
-It's exactly what we need except for the system itself. We only need the sensors, but these sensors are made for the Smart Water board. 
+We have found a system which comes close to our idea for the MFM. It's called Libelium Smart Water. It is a system which has the capabilities to measure multiple ions. You can check water quality, the ions in a swimming pool etc. 
+It's exactly what we need except for the system itself. We only need the sensors, but these sensors are made for the Smart Water boar only.  
 We are going to check if we can use the sensors individually. 
 
 Still, we are going to analyse the system. Maybe we can find something we also can use in the MFM. 
@@ -106,7 +106,7 @@ Still, we are going to analyse the system. Maybe we can find something we also c
 | Battery powered, low power requirements. | Because no wiring is necessary Waspmote installation takes just minutes and can provide remote monitoring for years. 
 | CE / FCC /IC certification and quad-band connectivity (850/900/1900/2100MHz) | Waspmote supports any cellular connection provider, and is ready for deployment in any country in the world |
 
-These are the technical specifications from the Libelium Smart Water system. It's already low powered, but we are aiming for even a lower power ussage. 
+These are the technical specifications from the Libelium Smart Water system. It has a low power usage, but we are aiming for even a lower power usage. 
 
 After research, we found out that we can buy the sensors apart from the system. 
 
