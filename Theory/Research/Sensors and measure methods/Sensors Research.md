@@ -19,7 +19,7 @@ The first sensor I found and can be used with Arduino, is the Gravity: Analog El
 It's important to know the conductivity of water, because it reflects the level of electrolytes present in the water. 
 Depending on the concentration of the electrolyte, the conductivity of the aqueous solution is different. It's a special meter, because it's special-built for Arduino and has practical features. When the meter is installed, you can measure the Conductivity easily. 
  
-SPECIFICATION
+#####SPECIFICATION
 - Operating Voltage: +5.00 V
 - PCB Size: 45 × 32mm(1.77x1.26")
 - Measuring Range: 1ms/cm -- 20ms/cm
@@ -31,10 +31,14 @@ SPECIFICATION
 - DS18B20 Temperature Sensor(Waterproof)
 - Power Indicator
 
-APPLICATIONS
+#####APPLICATIONS
 - Water quality monitoring.
 - Aquaculture.
 - Hydroponic & Aquaponic.
+
+#####Electrode size 
+![alt text](https://github.com/TimVosch/Aqua/blob/master/Theory/Media/800px-EC_size.png)
+
 
 Explanation Sensor: https://youtu.be/SfYD8JZ1wK4
 
