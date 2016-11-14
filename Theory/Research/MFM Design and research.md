@@ -22,7 +22,8 @@ The next question is, at what angle from horizontal should the panels be tilted?
 
 ##### Fixed or ajustable
 It is simplest to mount your solar panels at a fixed tilt and just leave them there. But because the sun is higher in the summer and lower in the winter, you can capture more energy during the whole year by adjusting the tilt of the panels according to the season. The following table shows the effect of adjusting the angle, using a system at 40° latitude as an example. (The comparison would be a little different for different latitudes.) Each option is compared with the energy received by the best possible tracker that always keeps the panel pointed directly at the sun. 
-Inline-style: 
+
+Table 1: 
 ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/table%201.png "Logo Title Text 1") 
 
 
