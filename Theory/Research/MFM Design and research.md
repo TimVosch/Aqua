@@ -74,6 +74,7 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 ## power supply
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
 Here is a list of batteries and their technical specification :
+
 1. Lead acid battery 
 Lead acid batteries are widely uses in the industry of batteries. It is the oldest rechargable battery type. Despite having a low power to mass ratio and a low volume to energy ratio, is has a relatively high power to weight ratio. It doesn't cost a lot of money to produce. The battery consists of PbSo4 plates as the 2 electrodes and they are surrounded by sulfuric acid. They work like a normal eletrochemical cell and electrolytical cell, with 2 reactions per electrode. 
 It has multiple uses like :
@@ -88,6 +89,7 @@ However , it has its downsides, which makes it unsuitable for our situation:
 - It is possible that gases are created during the charging state if it is used exessively. This can cause explosions in the battery. 
 - If the battery can't let the gases escape, then there will be corrosion due to acid gases in the battery. This results in the formation of crystals in the sulfuric acid solution, which interferes with the battery's performance. 
 these things only happen if the battery is discharged to 0% and if it's overcharged. If you keep it at approx 50% charged, you'll only need to refill the battery once every 6 months, so it still is unsuitable for our purposes. 
+
 2. AGM and Gell battery
 
 AGM Batteries
