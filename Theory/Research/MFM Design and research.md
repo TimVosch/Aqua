@@ -225,6 +225,8 @@ The only differece between these 2 is the price and quality: The Gell battery ha
 - https://www.reddit.com/r/AskElectronics/comments/5cekvo/project_idea_advice_needed_with_battery_choice/
 - http://www.canbat.ca/guide-agm-batteries-gel-batteries/
 - https://en.wikipedia.org/wiki/List_of_battery_types
+- http://www.powertechsystems.eu/home/tech-corner/lithium-ion-vs-lead-acid-battery/
+
 
 
 
