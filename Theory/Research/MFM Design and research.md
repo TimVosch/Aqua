@@ -74,7 +74,7 @@ Other published articles on tilt angles have used less accurate calculations. Fo
 ## power supply
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
 First we will provide a list of all rechargable batteries and then we will pick some interesting batteries which might suit our needs.
-List ofSecondary cells or rechargeable batteries:  
+List of Secondary cells or rechargeable batteries:  
 
     Alkaline battery (zinc manganese oxide, carbon)
     Aluminium–air battery
@@ -198,9 +198,24 @@ Gel batteries work in the same manner, but they have a much higher cycle life of
 
 The only differece between these 2 is the price and quality: The Gell battery has a much higher price, but it comes with a bigger life expectancy than the AGM battery. 
 
+#### Advantages of gel/AGM batteries over normal lead-acid batteries: 
+- Unlike flooded/unsealed batteries, SLAs require no maintenance beyond proper charging.
+- Unlike FLAs, when being charged SLAs produce no gasses that must be vented.
+- SLAs work well with small solar arrays and can be charged to lower voltages as lower charge rates.
+- No water must ever be added and individual batteries will not need to be equalized to ensure proper operation of the overall system.
+- SLAs don’t leak or suffer terminal corrosion.
+- The most commonly used type of SLA, Absorbed Glass Mat (AGM), is non-hazardous, and can be shipped between locations without precaution or extra expense.
+- SLAs are easily stackable and will take up less space in a battery bank than other alternatives.
 
 
+#### Advantages of the lead-acid battery over the AGM/Gel battery
+- FLA's are cheaper
+- FLA's are widely available in all shapes and size
 
+(SLA = sealed lead-acid battery, such as the AGM and gel types)
+(FLA = Flooded lead-acid battery, the normal ones)
+
+The AGM battery is currently the best option, because it hits the sweetspot between price, performance and maintanance. It is able to withstand temperatures between -20 and +40, it doesn't require a lot of maintanance if charged correctly, it can come in any shape or form, it can provide enough power to be able to keep the device turned on at all times. So the AGM battery is our favourite pick at the moment. 
 
 
 
@@ -225,7 +240,7 @@ The only differece between these 2 is the price and quality: The Gell battery ha
 - https://en.wikipedia.org/wiki/Comparison_of_battery_types
 - http://batteryuniversity.com/learn/article/secondary_batteries
 - http://www.brighthubengineering.com/power-generation-distribution/123909-types-of-batteries-and-their-applications/
-- https://www.reddit.com/r/AskElectronics/comments/5cekvo/project_idea_advice_needed_with_battery_choice/
+- http://www.offthegridnews.com/grid-threats/the-absolute-best-batteries-for-off-grid-energy-systems/
 - http://www.canbat.ca/guide-agm-batteries-gel-batteries/
 - https://en.wikipedia.org/wiki/List_of_battery_types
 - http://www.powertechsystems.eu/home/tech-corner/lithium-ion-vs-lead-acid-battery/
