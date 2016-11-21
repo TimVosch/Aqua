@@ -196,6 +196,7 @@ Gel batteries work in the same manner, but they have a much higher cycle life of
 
 The only differece between these 2 is the price and quality: The Gell battery has a much higher price, but it comes with a bigger life expectancy than the AGM battery. 
 
+![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/battery%20comparrison.png "Logo Title Text 4")
 
 
 
