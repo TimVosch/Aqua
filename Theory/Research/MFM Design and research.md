@@ -159,6 +159,8 @@ List ofSecondary cells or rechargeable batteries:
     Super iron battery
     UltraBattery
 
+### Comparison list
+![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/battery%20comparrison.png "Logo Title Text 4")
 ### Lead acid battery 
 Lead acid batteries are widely uses in the industry of batteries. It is the oldest rechargable battery type. Despite having a low power to mass ratio and a low volume to energy ratio, is has a relatively high power to weight ratio. It doesn't cost a lot of money to produce. The battery consists of PbSo4 plates as the 2 electrodes and they are surrounded by sulfuric acid. They work like a normal eletrochemical cell and electrolytical cell, with 2 reactions per electrode. 
 It has multiple uses like :
@@ -196,7 +198,7 @@ Gel batteries work in the same manner, but they have a much higher cycle life of
 
 The only differece between these 2 is the price and quality: The Gell battery has a much higher price, but it comes with a bigger life expectancy than the AGM battery. 
 
-![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/battery%20comparrison.png "Logo Title Text 4")
+
 
 
 
