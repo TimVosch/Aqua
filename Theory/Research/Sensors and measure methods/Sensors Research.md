@@ -7,6 +7,11 @@ Now we have this information, we are going to look which sensors have the lowest
 In this file, you will find every sensor we have researched and if it's usable with Arduino. 
 
 #### Conductivity sensor
+First, I'm going to explain what a conductivity sensor is and what a conductivity sensor measures. 
+Electrical conductivity is a materials ability to conduct an electric current.
+
+Why do we want to know what the electrical conductivity in the water? If there are a lot of ions in the water, the electrical conductivity is going to be higher when there a less ions. So it's important for us to know the electrical conductivit, because it's one of the factors to measure the water quality. 
+
 It's quite difficult to find a conductivity sensor which can be used with Arduino. What I did find is an explanation about a conductivity sensor implementation in Arduino --> http://www2.latech.edu/~dehall/LWTL/ENGR121/notes/3_conductivity_sensor_intro.pdf 
 
 It may be handy to use this file when we have found a conductivity sensor.
