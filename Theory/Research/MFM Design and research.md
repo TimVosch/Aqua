@@ -163,7 +163,8 @@ List of Secondary cells or rechargeable batteries:
 ![alt text] (https://github.com/TimVosch/Aqua/blob/master/Theory/Media/battery%20comparrison.png "Logo Title Text 4")
 
 
-### Lead acid battery 
+### Lead-acid based batteries
+#### lead-acid battery
 Lead acid batteries are widely uses in the industry of batteries. It is the oldest rechargable battery type. Despite having a low power to mass ratio and a low volume to energy ratio, is has a relatively high power to weight ratio. It doesn't cost a lot of money to produce. The battery consists of PbSo4 plates as the 2 electrodes and they are surrounded by sulfuric acid. They work like a normal eletrochemical cell and electrolytical cell, with 2 reactions per electrode. 
 It has multiple uses like :
 - starting cars
@@ -200,7 +201,6 @@ Gel batteries work in the same manner, but they have a much higher cycle life of
 
 The only differece between these 2 is the price and quality: The Gell battery has a much higher price, but it comes with a bigger life expectancy than the AGM battery. 
 
-## best batttery
 #### Advantages of gel/AGM batteries over normal lead-acid batteries: 
 - Unlike flooded/unsealed batteries, SLAs require no maintenance beyond proper charging.
 - Unlike FLAs, when being charged SLAs produce no gasses that must be vented.
@@ -218,7 +218,14 @@ The only differece between these 2 is the price and quality: The Gell battery ha
 (SLA = sealed lead-acid battery, such as the AGM and gel types)
 (FLA = Flooded lead-acid battery, the normal ones)
 
-The AGM battery is currently the best option, because it hits the sweetspot between price, performance and maintanance. It is able to withstand temperatures between -20 and +40, it doesn't require maintanance if charged correctly, it can come in any shape or form, it can provide enough power to be able to keep the device turned on at all times. So the AGM battery is our favourite pick at the moment. However, we need to buy double the required storage capacity of a battery because lead-acid batteries have a maximum discharge of +/- 50%, so double the calculated capacity is needed. We chose not to investigate further in lithium-based batteries since they're not suitable for our purposes, due to insufficient power levels at certain temperatures(below 0 and above 35 degrees celcius). Other battery types exceed our price limit , so those have not been investigated further.  
+The AGM battery is currently the best option from the lead-acid based batteries, because it hits the sweetspot between price, performance and maintanance. It is able to withstand temperatures between -20 and +50, it doesn't require maintanance if charged correctly, it can come in any shape or form, it can provide enough power to be able to keep the device turned on at all times. So the AGM battery is our favourite pick at the moment from these 3 types
+
+### Lithium-based batteries
+Lithium-based batteries have 2 things in common, they're lightweight and they have a very high power/weight ratio, meaning that they provide a lot of power.  We are going to look at the 2 best options for our device, which are the lithium polymer battery and the lithium iron phosphate battery .
+#### Lithium polymer
+
+
+## Expected power usage
 
 
 
@@ -245,6 +252,9 @@ The AGM battery is currently the best option, because it hits the sweetspot betw
 - http://www.canbat.ca/guide-agm-batteries-gel-batteries/
 - https://en.wikipedia.org/wiki/List_of_battery_types
 - http://www.powertechsystems.eu/home/tech-corner/lithium-ion-vs-lead-acid-battery/
+- http://www.cobox-ebikes.com/296/basic-understanding-of-lipo-li-ion-and-lifepo4.html
+- http://www.cobox-ebikes.com/296/basic-understanding-of-lipo-li-ion-and-lifepo4.html
+- http://batteryuniversity.com/learn/article/secondary_batteries
 
 
 
