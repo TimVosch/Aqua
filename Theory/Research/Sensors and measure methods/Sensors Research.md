@@ -47,7 +47,9 @@ Depending on the concentration of the electrolyte, the conductivity of the aqueo
 
 Explanation Sensor: https://youtu.be/SfYD8JZ1wK4
 
-OWN SENSOR????? -> https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
+We have found a way to build our own EC sensor. So, we are going to do that and then look if the power usage of the sensor is not going to be too high. Otherwise we need to buy the EC meter that I already have explained in this research. 
+
+https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
 
 
 
