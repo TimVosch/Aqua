@@ -222,9 +222,28 @@ The AGM battery is currently the best option from the lead-acid based batteries,
 
 ### Lithium-based batteries
 Lithium-based batteries have 2 things in common, they're lightweight and they have a very high power/weight ratio, meaning that they provide a lot of power.  We are going to look at the 2 best options for our device, which are the lithium polymer battery and the lithium iron phosphate battery .
-#### Lithium polymer
+Lithium-ion, Lithium Polymer and Lithium Iron Phosphate
+
+Lithium batteries provide the highest capacity (ampere-hours or "Ah") per unit weight of all metals, making it an ideal material for a lithium anode. Lithium battery pack systems offer distinct advantages over other battery systems, especially with respect to long life, reliability and capacity.
 
 
+A lithium power source offers a significant advantage if:
+
+- A high voltage is needed (i.e. 3.0 to 3.9 volts per cell)
+- A recharging circuit is not available or too costly
+- The power source has to be as light weight as possible
+- Long shelf life is required
+- A wide temperature range is required
+- Reliability is crucial
+- Extremely high energy density is needed
+- Environmental concerns such as temperature, vibration or shock are especially severe
+- Your application demands a continuous source of power for extensive periods of time
+
+Li-Ion and Li-Polymer battery packs should always be used with a protection circuit to prevent the cell from over charging or over dis-charging. Choosing the correct circuit and applying it appropriately is vital to the longevity your batteries and your own safety.
+
+Lithium iron Phosphate based batteries possesses superior thermal and chemical stability which provides better safety characteristics than those of Lithium-ion technology made with other cathode materials. Lithium phosphate cells are incombustible in the event of mishandling during charge or discharge, they are more stable under overcharge or short circuit conditions and they can withstand high temperatures without decomposing. When abuse does occur, the phosphate based cathode material will not burn and is not prone to thermal runaway. Phosphate chemistry also offers a longer cycle life, so lifepo4 batteries are safer to use than lithium polymer. However, lithium iron phosphate batteries are heavier than lithium polymer batteries, due to lower power to weight ratios
+
+So overall, the litium
 ## Expected power usage
 
 
