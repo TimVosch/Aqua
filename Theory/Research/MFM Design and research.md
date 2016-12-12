@@ -243,7 +243,41 @@ Li-Ion and Li-Polymer battery packs should always be used with a protection circ
 
 Lithium iron Phosphate based batteries possesses superior thermal and chemical stability which provides better safety characteristics than those of Lithium-ion technology made with other cathode materials. Lithium phosphate cells are incombustible in the event of mishandling during charge or discharge, they are more stable under overcharge or short circuit conditions and they can withstand high temperatures without decomposing. When abuse does occur, the phosphate based cathode material will not burn and is not prone to thermal runaway. Phosphate chemistry also offers a longer cycle life, so lifepo4 batteries are safer to use than lithium polymer. However, lithium iron phosphate batteries are heavier than lithium polymer batteries, due to lower power to weight ratios
 
-So overall, the litium
+So overall, the litium iron phosphate has the most advantages: 
+- it can operate between -20 and +40 during charging and discharging
+- it has a very high power to weigt ratio, almost 5 times the weight/power ratio of lead-acid batteries
+- it has its own safety measurements to prevent overcharging and overheating
+- it can provide sufficient voltages to power the system we have
+- it isn't very expensive, about €1,-/kH
+- it is possible to build this type of battery in several shapes to fit in our housing
+However, the battery might need insulation to keep working in subzero temperatures
+
+lithium iron phosphate specs:
+
+- Min. discharge voltage = 2.5V [14]
+- Working voltage = 3.0 ~ 3.3 V
+- Max. charge voltage = 3.65V
+- Volumetric energy density = 220 Wh/dm3 (790 kJ/dm3)
+- Gravimetric energy density > 90 Wh/kg[15] (> 320 J/g)
+- 100% DOD cycle life (number of cycles to 80% of original capacity) = 2,000–7,000[16]
+- 10% DOD cycle life (number of cycles to 80% of original capacity) > 10,000 [17]
+- Sony Fortelion: 71% capacity after 8,000 cycles with 100% DOD[18]
+- Cathode composition (weight)
+- 90% C-LiFePO4, grade Phos-Dev-12
+- 5% Carbon EBN-10-10 (superior graphite)
+- 5% PVDF
+Cell configuration:
+
+- Carbon-coated aluminium current collector 15
+- 1.54 cm2 cathode
+- Electrolyte: Ethylene carbonate-Dimethyl carbonate (EC-DMC) 1-1 LiClO4 1M
+- Anode: Graphite or Hard Carbon with intercalated Metallic lithium
+Experimental conditions:
+
+- Room temperature
+- Voltage limits: 2.0–3.65 V
+- Charge: Up to C/1 rate up to 3.6 V, then constant voltage at 3.6 V until I < C/24
+- According to the manufacturer BYD the lithium iron phosphate battery of the electric car e6 is charged at a fast charging station within 15 minutes to 80%, after 40 minutes at 100%
 ## Expected power usage
 
 
