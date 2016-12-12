@@ -47,7 +47,28 @@ Depending on the concentration of the electrolyte, the conductivity of the aqueo
 
 Explanation Sensor: https://youtu.be/SfYD8JZ1wK4
 
+Research own EC sensor:
+------------------------
 We have found a way to build our own EC sensor. So, we are going to do that and then look if the power usage of the sensor is not going to be too high. Otherwise we need to buy the EC meter that I already have explained in this research. 
+
+We have succeeded to make the EC sensor. The next step was to test the EC sensor and measure if the data is realible.
+I am going to make an operating plan to test the EC sensor and if we can use it in our MFM. I am also going to calculate the resistance of this system and his voltage. 
+
+######Operating plan
+What do we need?
+- Salt
+- Drinking water 
+- Tap water
+- Boiler or hot water
+- Cold water 
+
+What are we going to do?
+We are going to test the conductivity of the drinking- , tap- , hot- and cold water with and without salt with our EC sensor and a professional EC sensor. Then we are going to check with Coach 7 if the data of our EC sensor similar is to the data of the professional EC sensor. 
+
+Results:
+
+
+
 
 https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
 
