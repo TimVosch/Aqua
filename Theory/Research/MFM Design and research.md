@@ -278,6 +278,8 @@ Experimental conditions:
 - Voltage limits: 2.0–3.65 V
 - Charge: Up to C/1 rate up to 3.6 V, then constant voltage at 3.6 V until I < C/24
 - According to the manufacturer BYD the lithium iron phosphate battery of the electric car e6 is charged at a fast charging station within 15 minutes to 80%, after 40 minutes at 100%
+
+However, LiFePO4 batteries are way too expensive for our budget, so we need to go with the second best choice, which is the lithium polymer battery. The LiPo battery has the same specs as the LiFePo4 battery , but they lack several safety features which the lifepo4 battery has, such as temperature resistance, overcharging protection etc. So our final choice will be the LiPo, the second best battery of our research. We will have to insulate them well to work in subzero temperatures, but they are cheaper than lifepo4 batteries and we will eventually save money with this choice. 
 ## Expected power usage
 
 
@@ -287,7 +289,7 @@ Experimental conditions:
 
 
 ### links used in this documentation
-
+- zoutgehalte oosterschelde http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=chlorositeit&category=1&loc=OS4b&net=LMW
 - http://www.expertise.com/green/home-solar-panels-pros-cons-and-hidden-costs
     This site has good information for the homeowner considering going to solar power. 
 - http://www.nrel.gov/rredc/solar_resource.html
