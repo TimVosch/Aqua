@@ -281,6 +281,20 @@ Experimental conditions:
 
 However, LiFePO4 batteries are way too expensive for our budget, so we need to go with the second best choice, which is the lithium polymer battery. The LiPo battery has the same specs as the LiFePo4 battery , but they lack several safety features which the lifepo4 battery has, such as temperature resistance, overcharging protection etc. So our final choice will be the LiPo, the second best battery of our research. We will have to insulate them well to work in subzero temperatures, but they are cheaper than lifepo4 batteries and we will eventually save money with this choice. 
 ## Expected power usage
+We will be using the arduino uno v3 for our project. 
+These are the specifications :
+Microcontroller: ATmega328
+Operating Voltage: 5V
+Input Voltage (recommended):	7-12V
+Input Voltage (limits):	6-20V
+Digital I/O Pins: 14 (of which 6 provide PWM output)
+Analog Input Pins: 6
+DC Current per I/O Pin: 40 mA
+DC Current for 3.3V Pin: 50 mA
+Flash Memory: 32 KB (ATmega328) of which 0.5 KB used by bootloader
+SRAM: 2 KB (ATmega328)
+EEPROM: 1 KB (ATmega328)
+Clock Speed:	16 MHz
 
 
 
