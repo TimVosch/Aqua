@@ -57,17 +57,14 @@ I am going to make an operating plan to test the EC sensor and if we can use it 
 ######Operating plan
 What do we need?
 - Salt
-- Drinking water 
-- Tap water
-- Boiler or hot water
-- Cold water 
+- Demineralized water
+ 
 
 What are we going to do?
-We are going to test the conductivity of the drinking- , tap- , hot- and cold water with and without salt with our EC sensor and a professional EC sensor. Then we are going to check with Coach 7 if the data of our EC sensor similar is to the data of the professional EC sensor. 
+We are going to test the conductivity of the demineralized water with and without salt with our EC sensor and a professional EC sensor. Then we are going to check with Coach 7 if the data of our EC sensor similar is to the data of the professional EC sensor. 
 
 Results:
-
-
+Our results are on the website: Prototypes --> Conductivity meter --> Measurements
 
 Update: 
 We have gathered the results of our research and we can conclude that our own EC meter/ sensor is not good enough for our MFM, because it is not accurate and it doesn't show proper measurements. We compared our EC meter with a professional EC meter and we can confirm that our EC meter is not good enough for use in the MFM. 
