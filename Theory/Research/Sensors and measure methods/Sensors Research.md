@@ -69,6 +69,8 @@ Results:
 
 
 
+Update: 
+We have gathered the results of our research and we can conclude that our own EC meter/ sensor is not good enough for our MFM, because it is not accurate and it doesn't show proper measurements. We compared our EC meter with a professional EC meter and we can confirm that our EC meter is not good enough for use in the MFM. 
 
 https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
 
