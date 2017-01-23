@@ -297,6 +297,12 @@ EEPROM: 1 KB (ATmega328)
 Clock Speed:	16 MHz
 
 
+Let's gather some basic information about the energy that will be gained with the solar panels. In the Netherlands we've approximately 1637.8 peak-hours of sunlight. Which is 18.70% of the time. (That's not a lot)
+To compensate for the time there is no sun, we will have to deliver 100/18.70 = 5.4 times more power than it consumes in optimal conditions.
+A basic solar panel is around 5 Watts, which means they deliver around 5/0.11 = 27 times more than we consume, again in optimal conditions.
+Assuming the MFM operates at 5.5 Volts and not more than 20 mA, the power would be 0.11 Watt. This would be 
+
+
 
 
 
