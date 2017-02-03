@@ -295,7 +295,7 @@ Flash Memory: 32 KB (ATmega328) of which 0.5 KB used by bootloader
 SRAM: 2 KB (ATmega328)
 EEPROM: 1 KB (ATmega328)
 Clock Speed:	16 MHz
-
+Note that the Arduino has a minimal recommended input of 7v, and a maximum recommended input of 12v, so we need to have a battery that provides constant 7-12v to out power circuit. 
 
 Let's gather some basic information about the energy that will be gained with the solar panels. In the Netherlands we've approximately 1637.8 peak-hours of sunlight. Which is 18.70% of the time. (That's not a lot)
 To compensate for the time there is no sun, we will have to deliver 100/18.70 = 5.4 times more power than it consumes in optimal conditions.
