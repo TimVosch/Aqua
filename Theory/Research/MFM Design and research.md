@@ -330,6 +330,7 @@ Assuming the MFM operates at 5.5 Volts and not more than 20 mA, the power would 
 - http://www.cobox-ebikes.com/296/basic-understanding-of-lipo-li-ion-and-lifepo4.html
 - http://www.cobox-ebikes.com/296/basic-understanding-of-lipo-li-ion-and-lifepo4.html
 - http://batteryuniversity.com/learn/article/secondary_batteries
+- https://www.open-electronics.org/the-power-of-arduino-this-unknown/
 
 
 
