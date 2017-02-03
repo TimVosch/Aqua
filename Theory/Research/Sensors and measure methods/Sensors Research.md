@@ -69,13 +69,21 @@ Our results are on the website: Prototypes --> Conductivity meter --> Measuremen
 Update: 
 We have gathered the results of our research and we can conclude that our own EC meter/ sensor is not good enough for our MFM, because it is not accurate and it doesn't show proper measurements. We compared our EC meter with a professional EC meter and we can confirm that our EC meter is not good enough for use in the MFM. 
 
+Conclusion:
+What can we conclude after this research? We need to find a EC meter with low ussage of electricity. We have already found this EC meter. With a little bit of luck, because Tim has found it in his own house.  
+Now we have can finish this part of the research. 
+
+
+
+
+
+
+
+Sources:
 https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
-
-
-
 http://www.libelium.com/smart-water-ions-sensors-calcium-fluoride-chloride-nitrate-iodide-lead-bromide-cupric-silver/ http://www.libelium.com/development/waspmote/documentation/smart-water-board-technical-guide https://library.e.abb.com/public/d661a28ddd231379c1257bc50032a1e8/DS_TB2CS-EN_E.pdf https://www.dfrobot.com/?route=product/product&product_id=1123 https://www.dfrobot.com/wiki/index.php/Analog_EC_Meter_SKU:DFR0300
 
-Important site: http://www.nl.endress.com/nl
+
 
 
 
