@@ -302,8 +302,13 @@ To compensate for the time there is no sun, we will have to deliver 100/18.70 = 
 A basic solar panel is around 5 Watts, which means they deliver around 5/0.11 = 27 times more than we consume, again in optimal conditions.
 Assuming the MFM operates at 5.5 Volts and not more than 20 mA, the power would be 0.11 Watt. This would be 
 
-
-
+### Reasons why we should get a triangle-shaped model
+- Optimal strength , force applied to the model will be divided over the entire structure because of the triangle shape, thus making it very resistance to vandalism and weather-based influences
+- Optimal length and width for sensor on the bottom of the model to measure the water below, without becoming a victim of vandalism
+- Optimal angle for maximum solar power generation. An angle of 36 degrees will get us the most energy 
+- More surface area than other shapes. A triangle has 2 surface areas to capture the largest amount of sunlight throughout the day, while rectangular shapes can only be used for shorter timespans 
+- The structure of the triangle can support itself with 1 attachement on the support beam, while rectangles need 2 or more attachements to the support beam
+- The triangular shape is easier to insulate and has a lower chance of leakage
 
 
 
