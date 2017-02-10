@@ -310,6 +310,25 @@ Assuming the MFM operates at 5.5 Volts and not more than 20 mA, the power would 
 - The structure of the triangle can support itself with 1 attachement on the support beam, while rectangles need 2 or more attachements to the support beam
 - The triangular shape is easier to insulate and has a lower chance of leakage
 
+Additional calculation: As you asked about the strength of a triangular shape then let me introduce to the triangular chain consisting of three rigid links or bars connected to each other by pin joints(allowing rotation between two joined links) .
+
+The degree of freedom (n) of a plane chain is given by the Grasshoff's law as
+n=3(l−1)−2j−h
+n=3(l−1)−2j−h
+for a triangular chain we have
+l=no. of links=3
+l=no. of links=3
+j=no. of binary joints=3
+j=no. of binary joints=3
+h=no. of higher pairs=0
+h=no. of higher pairs=0
+Hence, we get
+n=3(3−1)−2(3)−0=6−6=0
+n=3(3−1)−2(3)−0=6−6=0
+The degree of freedom of the triangular chain (equivalent to plane triangular shape) has zero degree of freedom this indicates that links of the triangular chain can't move even a bit if links are strong enough even under the application of external forces.
+
+Thus a triangular shape is the strongest one which is also called a rigid structure. It is also called a perfect frame in physical structures.
+
 
 
 
