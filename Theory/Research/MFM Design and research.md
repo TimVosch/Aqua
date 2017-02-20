@@ -329,6 +329,16 @@ The degree of freedom of the triangular chain (equivalent to plane triangular sh
 
 Thus a triangular shape is the strongest one which is also called a rigid structure. It is also called a perfect frame in physical structures.
 
+## Design
+We have concluded that the triangular shape is the best shape for our model. We need to take several other things in account, like: 
+- an angle of 36 degrees to get maximum solar power throughout the day
+- A maxiumum heigt of 15 cm
+- The sensors need to reach the water in all spots, so it needs to be long and it needs to reach far from the place of attachement
+- it needs to be strong and rigid to sustain damage from vandalism and weather
+
+We went to sketchup to make a model which would suit all of our needs. It would also provide the measurements we need to produce a functional 3d model. 
+We started with a triangle with a height and width of 15 cm to get a maximum surface to attach it to a wall or support beam. Then we calculated the length needed to get 36 degree angle, which was 21 cm. Then we drew the side angles where a = 16,5 , b= 22,5 and C = 28 cm.
+We drew them on paper to get a better image of what we are talking about. http://imgur.com/a/zyQmb
 
 
 
