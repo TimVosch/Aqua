@@ -339,7 +339,7 @@ We have concluded that the triangular shape is the best shape for our model. We 
 We went to sketchup to make a model which would suit all of our needs. It would also provide the measurements we need to produce a functional 3d model. 
 We started with a attachement panel with a height and width of 15 cm to get a maximum surface to attach it to a wall or support beam. Then we calculated the length needed to get 36 degree angle, which was 21 cm. So our ground panel is 21x15cm.  Then we drew the side panels which where a = 16,5 , b= 22,5 and C = 28 cm. 
 We drew them on paper to get a better image of what we are talking about. 
-- Side panel 1 and 2 [picture](http://i.imgur.com/EcsML5v.jpg) ![alt text] ( (http://i.imgur.com/EcsML5v.jpg) "picture 1") 
+- Side panel 1 and 2 [picture](http://i.imgur.com/EcsML5v.jpg) 
 - attachement panel [picture](http://i.imgur.com/nyQCviD.jpg)
 - ground panel [picture](http://i.imgur.com/cMWb7W0.jpg)
 
