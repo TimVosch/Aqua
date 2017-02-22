@@ -370,7 +370,7 @@ We drew them on paper to get a better image of what we are talking about.
 - http://www.cobox-ebikes.com/296/basic-understanding-of-lipo-li-ion-and-lifepo4.html
 - http://batteryuniversity.com/learn/article/secondary_batteries
 - https://www.open-electronics.org/the-power-of-arduino-this-unknown/
-
+- https://www.thethingsnetwork.org/forum/t/any-tips-for-a-lipo-battery-charger-and-solar-panel-for-an-always-on-node/2892/5
 
 
 
