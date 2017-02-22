@@ -371,7 +371,8 @@ We drew them on paper to get a better image of what we are talking about.
 - http://batteryuniversity.com/learn/article/secondary_batteries
 - https://www.open-electronics.org/the-power-of-arduino-this-unknown/
 - https://www.thethingsnetwork.org/forum/t/any-tips-for-a-lipo-battery-charger-and-solar-panel-for-an-always-on-node/2892/5
-
+- https://openhomeautomation.net/arduino-battery/
+- http://www.instructables.com/id/SODAQ-solar-powered-autonomous-Rain-observation-st/step9/Setting-up-your-computer-to-program-Arduino-boards/
 
 
 
