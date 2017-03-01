@@ -249,7 +249,6 @@ So overall, the litium iron phosphate has the most advantages:
 - it has a very high power to weigt ratio, almost 5 times the weight/power ratio of lead-acid batteries
 - it has its own safety measurements to prevent overcharging and overheating
 - it can provide sufficient voltages to power the system we have
-- it isn't very expensive, about €1,-/kH
 - it is possible to build this type of battery in several shapes to fit in our housing
 However, the battery might need insulation to keep working in subzero temperatures
 
