@@ -7,8 +7,8 @@ The following points will be a combination of multiple documents written by all 
 - the prototype needs to be able to withstand all weather and temperature conditions without harm to the electronics.
 - the prototype needs to be vandalism-proof
 - the prototype needs to be modular, so every sensor must be able to be attached to our system without too much trouble. 
-- there must be a functional network supporting the devices and it needs to gather the data in a central point where the data can be viewed and processed. 
- - everything must be open source and available to everyone , so they can see and improve everything we worked on
+- there must be a functional network supporting the devices and it needs to gather the data in a central point where the data can be viewed and processed.
+- everything must be open source and available to everyone , so they can see and improve everything we worked on
 
 ## Optimum solar panel placement
 We will start with this, since it will influence our entire design, because it will be the main supply of power (along with the battery). 
