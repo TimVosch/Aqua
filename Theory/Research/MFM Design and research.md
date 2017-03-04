@@ -72,6 +72,9 @@ This formula assumes that the earth is flat, so a factor was applied to account 
 
 Other published articles on tilt angles have used less accurate calculations. For example, Richard Perez and Sam Coleman, in “PV Module Angles”, Home Power n.34 p.14-16, 1993, recommend an angle that puts the panel perpendicular to the sun’s rays at noon. That is indeed the best angle at noon on that day, but it does not take into account the best angle for capturing solar energy at other times of the day. That article also leaves it to the reader to estimate the best angle over the period until the next time the tilt is adjusted.
 
+## Optimal angles
+To get the most out of our model, we would like to use 2 angles in our model, so we get the most power out of our solar panels. We want the the front at a 36° to get the most power in autumn and spring. The side angles need to be 63° to get the most power in summer. This has to do with the angle of attack in different seasons. In summer, you'll have more time on a sideway angle, while in autumn and spring, you'll have more power on the frontside. This shape will be possible in a triangle shape. 
+
 ## power supply
 Out battery needs to be able to store power from a solar panel and it needs to supply power to our system if there is not enough power to supply our system with enough electricity to function. There are multiple possibilities which have good specification to fit our needs, but some of them have some flaws which makes them unsuitable for usage. 
 First we will provide a list of all rechargable batteries and then we will pick some interesting batteries which might suit our needs.
@@ -373,7 +376,7 @@ We drew them on paper to get a better image of what we are talking about.
 - https://www.thethingsnetwork.org/forum/t/any-tips-for-a-lipo-battery-charger-and-solar-panel-for-an-always-on-node/2892/5
 - https://openhomeautomation.net/arduino-battery/
 - http://www.instructables.com/id/SODAQ-solar-powered-autonomous-Rain-observation-st/step9/Setting-up-your-computer-to-program-Arduino-boards/
-
+- http://solarelectricityhandbook.com/solar-angle-calculator.html
 
 
 
