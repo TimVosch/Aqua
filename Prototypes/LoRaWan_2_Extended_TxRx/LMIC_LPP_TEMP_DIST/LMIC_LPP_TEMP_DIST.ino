@@ -1,3 +1,8 @@
+#include <DHT.h>
+#include <DHT_U.h>
+
+
+
 /*******************************************************************************
  * Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
  *
@@ -28,6 +33,11 @@
  * Do not forget to define the radio type correctly in config.h.
  *
  *******************************************************************************/
+#include <DHT.h>
+//Constants
+#define DHTPIN 8     // what pin we're connected to
+#define DHTTYPE DHT22   // DHT 22  (AM2302)
+DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
 
 #include <lmic.h>
 #include <hal/hal.h>
@@ -53,7 +63,7 @@ void os_getArtEui (u1_t* buf) { }
 void os_getDevEui (u1_t* buf) { }
 void os_getDevKey (u1_t* buf) { }
 
-static uint8_t mydata[] = { 0x03, 0x67, 0x01, 0x10, 0x05, 0x02, 0x00, 0xFF, 0x00 };
+static uint8_t mydata[] = { 0x06, 0x67, 0x00, 0x0, 0x07, 0x68, 0x00 };
 static osjob_t sendjob;
 
 // Schedule TX every this many seconds (might become longer due to duty
@@ -139,10 +149,15 @@ void do_send(osjob_t* j){
         Serial.println(F("OP_TXRXPEND, not sending"));
     } else {
         // Prepare upstream data transmission at the next possible time.
-        uint16_t level = random(0, 200) * 100;
-        mydata[6] = (level >> 8) & 0xFF;
-        mydata[7] = level & 0xFF;
-        LMIC_setTxData2(1, mydata, sizeof(mydata)-1, 0);
+        int hum = 45.5f * 2;//dht.readHumidity() * 2;
+        uint8_t *phum = (uint8_t*) &hum;
+        int temp = 23.20f * 10;//dht.readTemperature() * 10;
+        uint8_t *ptemp = (uint8_t*) &temp;
+        mydata[2] = ptemp[1];
+        mydata[3] = ptemp[0];
+        mydata[6] = phum[0];
+        
+        LMIC_setTxData2(1, mydata, sizeof(mydata), 0);
         Serial.println(F("Packet queued"));
     }
     // Next TX is scheduled after TX_COMPLETE event.
@@ -151,6 +166,8 @@ void do_send(osjob_t* j){
 void setup() {
     Serial.begin(115200);
     Serial.println(F("Starting"));
+
+    dht.begin();
 
     #ifdef VCC_ENABLE
     // For Pinoccio Scout boards
